@@ -7,7 +7,7 @@
 * ***Switching later to software (after initially hand-drawing your wireframe) allows you to keep track of more detailed decisions.***
 
 ![wireframe](https://d33wubrfki0l68.cloudfront.net/dbb80f2f6a5dafa25f702ad00bc429057fb59cec/52716/en/blog/uploads/versions/samuel-student-wireframe---x----972-715x---.png)
-[refernce.](https://careerfoundry.com/en/blog/ux-design/how-to-create-your-first-wireframe/)
+
 
 # What is HTML ?
 
@@ -25,7 +25,7 @@
 * **The element:** *The opening tag, the closing tag, and the content together comprise the element.*
 
 ![elemnt pic](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics/grumpy-cat-small.png)
-[refernce.](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics)
+
 
 # Semantics 
 
