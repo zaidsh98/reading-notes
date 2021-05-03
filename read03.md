@@ -6,7 +6,6 @@
 * ***With the help of paper-prototypes, you can test with end users at every stage of ideation and design. Changes at these stages are much easier—and therefore cheaper—than changes deemed necessary after coding is under way.***
 * ***Switching later to software (after initially hand-drawing your wireframe) allows you to keep track of more detailed decisions.***
 
-![wireframe](https://d33wubrfki0l68.cloudfront.net/dbb80f2f6a5dafa25f702ad00bc429057fb59cec/52716/en/blog/uploads/versions/samuel-student-wireframe---x----972-715x---.png)
 
 
 # What is HTML ?
@@ -24,7 +23,6 @@
 
 * **The element:** *The opening tag, the closing tag, and the content together comprise the element.*
 
-![elemnt pic](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics/grumpy-cat-small.png)
 
 
 # Semantics 
