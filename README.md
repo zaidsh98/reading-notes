@@ -5,3 +5,4 @@
 | read01      | [click here.](https://zaidsh98.github.io/reading-notes/read01)       |
 | git-notes   | [click here.](https://zaidsh98.github.io/reading-notes/git-notes)        |
 | read02b     | [click here.](https://zaidsh98.github.io/reading-notes/read02b)        |
+| pages       | links       |
