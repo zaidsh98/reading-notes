@@ -6,4 +6,4 @@
 | git-notes   | [click here.](https://zaidsh98.github.io/reading-notes/git-notes)        |
 | read02b     | [click here.](https://zaidsh98.github.io/reading-notes/read02b)        |
 | read03       | [click here](https://zaidsh98.github.io/reading-notes/read03)       |
-
+| read03b       | [Click here.](https://zaidsh98.github.io/reading-notes/read03b)    |
