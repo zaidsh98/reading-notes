@@ -8,3 +8,4 @@
 | read03       | [click here](https://zaidsh98.github.io/reading-notes/read03)       |
 | read03b       | [Click here.](https://zaidsh98.github.io/reading-notes/read03b)    |
 | read04       | [Click here.](https://zaidsh98.github.io/reading-notes/read04)    |
+| read05       | [Click here.](https://zaidsh98.github.io/reading-notes/read05)    |
