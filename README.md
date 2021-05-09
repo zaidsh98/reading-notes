@@ -8,9 +8,7 @@
 | read03       | [click here](https://zaidsh98.github.io/reading-notes/read03)       |
 | read03b       | [Click here.](https://zaidsh98.github.io/reading-notes/read03b)    |
 | read04       | [Click here.](https://zaidsh98.github.io/reading-notes/read04)    |
-<<<<<<< HEAD
 | read05       | [Click here.](https://zaidsh98.github.io/reading-notes/read05)    |
 | read06       | [Click here.](https://zaidsh98.github.io/reading-notes/read06)    |
-=======
-| read05       | [Click here.](https://zaidsh98.github.io/reading-notes/read05)    |
->>>>>>> df6d538305a1ef3c6cd4dcfb172ce84a802f7926
+
+
