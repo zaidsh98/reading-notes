@@ -11,3 +11,8 @@
 | read05       | [Click here.](https://zaidsh98.github.io/reading-notes/read05)    |
 | read06       | [Click here.](https://zaidsh98.github.io/reading-notes/read06)    |
 | read09       | [Click here.](https://zaidsh98.github.io/reading-notes/read09)    |
+## Code 201 Reading Notes.
+
+| pages       | links       |
+| ----------- | ----------- |
+| Class01     |             |
