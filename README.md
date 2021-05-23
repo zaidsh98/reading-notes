@@ -15,4 +15,4 @@
 
 | pages       | links       |
 | ----------- | ----------- |
-| Class01     |             |
+| Class01     |     [Basics HTML and JavaScript.](https://zaidsh98.github.io/reading-notes/class-01)        |
