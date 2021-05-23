@@ -15,4 +15,5 @@
 
 | pages       | links       |
 | ----------- | ----------- |
-| Class01     |     [Basics HTML and JavaScript.](https://zaidsh98.github.io/reading-notes/class-01)        |
+| Class01     |     [Introduction in HTML and JavaScript.](https://zaidsh98.github.io/reading-notes/class-01)        |
+| Class02     |     [Basics of HTML , CSS and JavaScript.](https://zaidsh98.github.io/reading-notes/class-02)        |
