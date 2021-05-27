@@ -122,3 +122,62 @@ For example, 0.5 represents
 represents 75% transparency.
 
 # **Texts :** 
+
+## **Typeface Terminology :**
+
+## **Serif :**
+*Serif fonts have extra details on
+the ends of the main strokes of
+the letters. These details are
+known as serifs.*
+
+## **Sans-Serif :**
+*Sans-serif fonts have straight
+ends to letters, and therefore
+have a much cleaner design.*
+
+## **Monospace :**
+*Every letter in a monospace (or
+fixed-width) font is the same
+width. (Non-monospace fonts
+have different widths.)*
+
+## **font-family :**
+The font-family property
+allows you to specify the
+typeface that should be used for
+any text inside the element(s) to
+which a CSS rule applies.
+The value of this property is the
+name of the typeface you want
+to use.
+The people who are visiting
+your site need the typeface you
+have specified installed on their
+computer in order for it to be
+displayed.
+You can specify a list of fonts
+separated by commas so that,
+if the user does not have your
+first choice of typeface installed,
+the browser can try to use an
+alternative font from the list.
+
+## **font-size :**
+### **pixels**
+Pixels are commonly used
+because they allow web
+designers very precise control
+over how much space their text
+takes up. The number of pixels is
+followed by the letters px.
+
+### **percentages**
+The default size of text in
+browsers is 16px. So a size of
+75% would be the equivalent of
+12px, and 200% would be 32px.
+
+### **ems**
+An em is equivalent to the width
+of a letter m.
