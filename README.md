@@ -20,3 +20,4 @@
 | Class03     |     [HTML Lists , CSS boxes and JavaScript control Flow.](https://zaidsh98.github.io/reading-notes/class-03)        |
 | Class04     |     [HTML Links, CSS Layout and JavaScript Functios.](https://zaidsh98.github.io/reading-notes/class-04)        |
 | Class05     |     [HTML Images, CSS Colors and Texts.](https://zaidsh98.github.io/reading-notes/class-05)        |
+| Class06     |     [Problem Domain, Objects, and the DOM.](https://zaidsh98.github.io/reading-notes/class-06)        |
