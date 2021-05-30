@@ -21,3 +21,4 @@
 | Class04     |     [HTML Links, CSS Layout and JavaScript Functios.](https://zaidsh98.github.io/reading-notes/class-04)        |
 | Class05     |     [HTML Images, CSS Colors and Texts.](https://zaidsh98.github.io/reading-notes/class-05)        |
 | Class06     |     [Problem Domain, Objects, and the DOM.](https://zaidsh98.github.io/reading-notes/class-06)        |
+| Class07     |     [HTML Tables; JS Constructor Functions](https://zaidsh98.github.io/reading-notes/class-07)        |
