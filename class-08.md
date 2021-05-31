@@ -64,4 +64,5 @@ Absolutely positioned elements
 move as users scroll up and
 down the page.
 
+![layout](https://cdn.codecoda.com/themes/user/site/default/asset/img/blog/CSS-layout-1.png)
 [For Refernce.](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout)
