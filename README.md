@@ -23,3 +23,4 @@
 | Class06     |     [Problem Domain, Objects, and the DOM.](https://zaidsh98.github.io/reading-notes/class-06)        |
 | Class07     |     [HTML Tables; JS Constructor Functions.](https://zaidsh98.github.io/reading-notes/class-07)        |
 | Class08     |     [CSS Layout .](https://zaidsh98.github.io/reading-notes/class-08)        |
+| Class09     |     [Forms and JS Events.](https://zaidsh98.github.io/reading-notes/class-09)        |
