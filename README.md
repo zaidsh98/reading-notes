@@ -27,3 +27,4 @@
 | Class10     |     [JS Debugging.](https://zaidsh98.github.io/reading-notes/class-10)        |
 | Class11     |     [Images.](https://zaidsh98.github.io/reading-notes/class-11)        |
 | Class12     |     [Canvas.js](https://zaidsh98.github.io/reading-notes/class-12)        |
+| Class13     |     [Local Storage.](https://zaidsh98.github.io/reading-notes/class-13)        |
