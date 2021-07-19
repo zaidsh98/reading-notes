@@ -1,5 +1,8 @@
 ## Hello everyone this is [Zaid Shahrouri](https://github.com/zaidsh98) click on my name to view my GetHub portfolio . 
 
+
+## Code 102 - Intro to Software Development.
+
 | pages       | links       |
 | ----------- | ----------- |
 | read01      | [click here.](https://zaidsh98.github.io/reading-notes/read01)       |
@@ -11,7 +14,7 @@
 | read05       | [Click here.](https://zaidsh98.github.io/reading-notes/read05)    |
 | read06       | [Click here.](https://zaidsh98.github.io/reading-notes/read06)    |
 | read09       | [Click here.](https://zaidsh98.github.io/reading-notes/read09)    |
-## Code 201 Reading Notes.
+## Code 201 - Foundations of Software Development.
 
 | pages       | links       |
 | ----------- | ----------- |
@@ -30,3 +33,5 @@
 | Class13     |     [Local Storage.](https://zaidsh98.github.io/reading-notes/class-13)        |
 | Class14a     |     [CSS Transforms.](https://zaidsh98.github.io/reading-notes/class-14a)        |
 | Class14b     |     [ What Google Learned About Teams.](https://zaidsh98.github.io/reading-notes/class-14b)        |
+
+## Code 301 - Intermediate Software Development.
