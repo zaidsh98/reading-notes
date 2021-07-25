@@ -35,3 +35,7 @@
 | Class14b     |     [ What Google Learned About Teams.](https://zaidsh98.github.io/reading-notes/class-14b)        |
 
 ## Code 301 - Intermediate Software Development.
+
+| pages       | links       |
+| ----------- | ----------- |
+| Class01     |     [Introduction to React and Components.](https://zaidsh98.github.io/reading-notes/301class-01)        |
