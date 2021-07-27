@@ -40,3 +40,4 @@
 | ----------- | ----------- |
 | Class01     |     [Introduction to React and Components.](https://zaidsh98.github.io/reading-notes/301class-01)        |
 | Class02     |     [State and Props.](https://zaidsh98.github.io/reading-notes/301class-02)        |
+| Class03     |     [Passing Functions as Props.](https://zaidsh98.github.io/reading-notes/301class-03)        |
