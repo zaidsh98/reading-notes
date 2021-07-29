@@ -42,4 +42,4 @@
 | Class02     |     [State and Props.](https://zaidsh98.github.io/reading-notes/301class-02)        |
 | Class03     |     [Passing Functions as Props.](https://zaidsh98.github.io/reading-notes/301class-03)        |
 | Class04     |     [React and Forms.](https://zaidsh98.github.io/reading-notes/301class-04)        |
-| Class05     |     [React and Forms.](https://zaidsh98.github.io/reading-notes/301class-05)        |
+| Class05     |     [Putting it all together.](https://zaidsh98.github.io/reading-notes/301class-05)        |
