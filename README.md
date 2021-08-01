@@ -43,3 +43,4 @@
 | Class03     |     [Passing Functions as Props.](https://zaidsh98.github.io/reading-notes/301class-03)        |
 | Class04     |     [React and Forms.](https://zaidsh98.github.io/reading-notes/301class-04)        |
 | Class05     |     [Putting it all together.](https://zaidsh98.github.io/reading-notes/301class-05)        |
+| Class06     |     [NODE.JS.](https://zaidsh98.github.io/reading-notes/301class-06)        |
