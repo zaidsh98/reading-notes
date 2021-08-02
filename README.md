@@ -44,3 +44,4 @@
 | Class04     |     [React and Forms.](https://zaidsh98.github.io/reading-notes/301class-04)        |
 | Class05     |     [Putting it all together.](https://zaidsh98.github.io/reading-notes/301class-05)        |
 | Class06     |     [NODE.JS.](https://zaidsh98.github.io/reading-notes/301class-06)        |
+| Class07     |     [REST.](https://zaidsh98.github.io/reading-notes/301class-07)        |
