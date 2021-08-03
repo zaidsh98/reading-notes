@@ -46,3 +46,4 @@
 | Class06     |     [NODE.JS.](https://zaidsh98.github.io/reading-notes/301class-06)        |
 | Class07     |     [REST.](https://zaidsh98.github.io/reading-notes/301class-07)        |
 | Class08     |     [APIs.](https://zaidsh98.github.io/reading-notes/301class-08)        |
+| Class09     |     [FUNCTIONAL PROGRAMMING.](https://zaidsh98.github.io/reading-notes/301class-09)        |
