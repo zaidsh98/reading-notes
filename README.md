@@ -47,3 +47,4 @@
 | Class07     |     [REST.](https://zaidsh98.github.io/reading-notes/301class-07)        |
 | Class08     |     [APIs.](https://zaidsh98.github.io/reading-notes/301class-08)        |
 | Class09     |     [FUNCTIONAL PROGRAMMING.](https://zaidsh98.github.io/reading-notes/301class-09)        |
+| Class10     |     [ In memory storage.](https://zaidsh98.github.io/reading-notes/301class-10)        |
