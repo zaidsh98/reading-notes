@@ -49,3 +49,4 @@
 | Class09     |     [FUNCTIONAL PROGRAMMING.](https://zaidsh98.github.io/reading-notes/301class-09)        |
 | Class10     |     [ In memory storage.](https://zaidsh98.github.io/reading-notes/301class-10)        |
 | Class11     |     [Authentication.](https://zaidsh98.github.io/reading-notes/301class-11)        |
+| Class12     |     [Mongo and Mongoose.](https://zaidsh98.github.io/reading-notes/301class-12)        |
