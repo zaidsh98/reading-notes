@@ -50,3 +50,4 @@
 | Class10     |     [ In memory storage.](https://zaidsh98.github.io/reading-notes/301class-10)        |
 | Class11     |     [Authentication.](https://zaidsh98.github.io/reading-notes/301class-11)        |
 | Class12     |     [Mongo and Mongoose.](https://zaidsh98.github.io/reading-notes/301class-12)        |
+| Class13     |     [Mongo and Mongoose.](https://zaidsh98.github.io/reading-notes/301class-13)        |
