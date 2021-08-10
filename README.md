@@ -51,3 +51,4 @@
 | Class11     |     [Authentication.](https://zaidsh98.github.io/reading-notes/301class-11)        |
 | Class12     |     [Mongo and Mongoose.](https://zaidsh98.github.io/reading-notes/301class-12)        |
 | Class13     |     [CRUD.](https://zaidsh98.github.io/reading-notes/301class-13)        |
+| Class14     |     [Diversity & Inclusion in the Tech Industry.](https://zaidsh98.github.io/reading-notes/301class-14)        |
